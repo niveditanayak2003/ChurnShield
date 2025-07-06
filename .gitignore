@@ -1,0 +1,32 @@
+# Ignore data files
+data/
+*.csv
+
+# Ignore model files
+model.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.env
+venv/
+ENV/
+env/
+*.env
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
